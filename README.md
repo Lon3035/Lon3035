@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Lon3035
+👋 Hi, I’m @Lon3035
+
+
+Jack of many trades, master of adaptive brilliance!🌟	
 
 <!---
 Lon3035/Lon3035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
