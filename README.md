@@ -11,6 +11,9 @@ I am a **Business Informatics** graduate, dedicated to bridging the gap between 
 #### - 🌐 [Sauer.dev](https://github.com/Lon3035/sauer.dev): My personal terminal-themed website. It’s not just a portfolio but a playground for exploring **Next.js**, **Docker**, and automated deployments. Features Interactive terminal UI and GPG key and file hosting.
 
 #### - 🎬 [boxdlist](https://github.com/Lon3035/boxdlist): A smart **Letterboxd** watchlist randomizer. When your "Watch-Next" pile gets too overwhelming and you can't decide what to pick, this tool does the job for you.
+
+#### - 📊 [LiteFS vs. PostgreSQL Benchmark Suite](https://github.com/Lon3035/litefs-postgres-benchmark): Comparative benchmark suite developed for my Bachelor's thesis to evaluate "Distributed SQLite" (LiteFS) against PostgreSQL in edge-heavy environments. Features automated load generation, replication lag monitoring, and automated failover testing.
+
 ---
 
 ## Skills & Interests
