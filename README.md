@@ -8,10 +8,12 @@ I am a **Business Informatics** graduate, dedicated to bridging the gap between 
 
 ## 🛠️ Featured Projects
 
+#### - 🌐 [Sauer.dev](https://github.com/Lon3035/sauer.dev): My personal terminal-themed website. It’s not just a portfolio but a playground for exploring **Next.js**, **Docker**, and automated deployments. Features Interactive terminal UI and GPG key and file hosting.
+
 #### - 🎬 [boxdlist](https://github.com/Lon3035/boxdlist): A smart **Letterboxd** watchlist randomizer. When your "Watch-Next" pile gets too overwhelming and you can't decide what to pick, this tool does the job for you.
 ---
 
-## 🚀 Skills & Interests
+## Skills & Interests
 * **Development:** Software Development (Full-stack focus) & System Architecture.
 * **Infrastructure:** Cloud Computing & DevOps practices (CI/CD, Automation).
 * **Business:** Process Optimization & Data-driven Decision Making.
