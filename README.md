@@ -2,7 +2,7 @@
 
 **Jack of many trades, master of adaptive brilliance!** 🌟
 
-I am a **Business Informatics** graduate, dedicated to bridging the gap between complex business logic and modern technical implementation. I specialize in building scalable software and optimizing deployment workflows.
+I am a Business Informatics graduate, dedicated to bridging the gap between complex business logic and modern technical implementation. I specialize in building scalable software and optimizing deployment workflows.
 
 ---
 
