@@ -8,8 +8,7 @@ I am a **Business Informatics** graduate, dedicated to bridging the gap between 
 
 ## 🛠️ Featured Projects
 
-### 🎬 [boxdlist](https://github.com/Lon3035/boxdlist)
-A smart **Letterboxd** watchlist randomizer. When your "Watch-Next" pile gets too overwhelming and you can't decide what to pick, this tool does the job for you.
+#### - 🎬 [boxdlist](https://github.com/Lon3035/boxdlist): A smart **Letterboxd** watchlist randomizer. When your "Watch-Next" pile gets too overwhelming and you can't decide what to pick, this tool does the job for you.
 ---
 
 ## 🚀 Skills & Interests
